@@ -1,0 +1,28 @@
+
+.box {
+    height: auto;
+    background: #8bb6f9;
+}
+
+.box1 {
+    height: 45px;
+    background: #cde2ff;
+    margin: 5px;
+}
+
+.box2 {
+    height: 88px;
+    background: royalblue;
+    margin: 5px;
+
+}
+
+.box3 {
+    height: 450px;
+    background: #cde2ff;
+    margin: 5px;
+}
+
+.mar {
+    margin: 0 15px;
+}
